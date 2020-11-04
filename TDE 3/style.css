@@ -1,0 +1,52 @@
+body{
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4LU_NnqzMWVDMilghGt2MAHaE8%26pid%3DApi&f=1);
+    background-size: cover;
+    text-align: justify;}
+
+.intro{
+    height: 375px;}
+
+.intro h1{
+    font-size: 50px;
+    color: black;}
+
+.intro h1:hover{text-align: center;}
+
+.intro h2{
+    font-size: 25px;
+    color: black;}
+
+.intro h2:hover{text-align: center;}
+
+h3{
+    color: black;}
+
+h3:hover{
+    background-color:green;
+    color:white;}
+
+p{
+    color:black}
+
+p:hover{
+    background-color:greenyellow;
+    color:white;}
+
+.main supporting,.participation,.benefits,.requirements{
+    text-align: end;}
+
+.main supporting:hover{text-align: left;}
+.participation:hover{text-align: left;}
+.benefits:hover{text-align: left;}
+.requirements:hover{text-align: left;}
+
+footer,aside{
+    text-align: center;}
+
+footer:hover{background-color:greenyellow;
+    color:white;}
+
+ul{list-style: none;}
+
+ul:hover{background-color:greenyellow;
+    color:white;}
